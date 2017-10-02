@@ -4,4 +4,4 @@ Keyword cataloger using bottle.py
 ## Quick Start
 * Install `bottle.py` using `sudo pip install bottle`.
 * Clone repository.
-* Run `Python server.py` from root folder.
+* Run `python server.py` from root folder.
